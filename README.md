@@ -25,7 +25,7 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/10.png" alt="screen 10" height="76" width="76">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/11.png" alt="screen 11" height="76" width="76">
 
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="450" width="870">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="450" width="875">
 
 <b>How to Run The LIRI Bot:</b>
 1) Type <b>'node liri.js'</b> Key down to <b>Find events for your favorite bands' concerts</b>, type in a band. This will show the following information about the bands' concert info in your terminal window:
