@@ -13,17 +13,17 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 * <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
 
 <b>Screenshots:</b><br>
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/01.png" alt="screen 1" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/02.png" alt="screen 2" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/03.png" alt="screen 3" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/04.png" alt="screen 4" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/05.png" alt="screen 5" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/06.png" alt="screen 6" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/07.png" alt="screen 7" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/08.png" alt="screen 8" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/09.png" alt="screen 9" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/10.png" alt="screen 10" height="100" width="76">
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/11.png" alt="screen 11" height="100" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/01.png" alt="screen 1" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/02.png" alt="screen 2" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/03.png" alt="screen 3" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/04.png" alt="screen 4" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/05.png" alt="screen 5" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/06.png" alt="screen 6" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/07.png" alt="screen 7" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/08.png" alt="screen 8" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/09.png" alt="screen 9" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/10.png" alt="screen 10" height="76" width="76">
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/11.png" alt="screen 11" height="76" width="76">
 
 
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="475" width="900">
