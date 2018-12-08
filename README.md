@@ -1,5 +1,6 @@
 # LIRI Bot - UCSD <img src="https://img.icons8.com/color/48/000000/drum-set.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/metal-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/electronic-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/rock-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/documentary.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/music-transcript.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/dj.png"><img src="https://img.icons8.com/color/48/000000/matrix-desktop.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/morpheus.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/trinity.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/neo.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/matrix-hunter.png">
 ## LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="450" width="900">
 LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be a command line node app that takes in parameters and gives you back data. LIRI uses the following commands:
 
 * <a href="https://www.bandsintown.com/">Bands in town</a>
@@ -13,7 +14,6 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 * <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
 
 <b>Screenshots:</b><br>
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="400" width="900"><br>
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/01.png" alt="screen 1" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/02.png" alt="screen 2" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/03.png" alt="screen 3" height="100" width="100">
