@@ -9,7 +9,7 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 
 <b>Technologies used:</b>
 * <a href="https://nodejs.org/en/">Node.js</a>
-* <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
+* <a href="https://www.w3schools.com/whatis/whatis_js.asp">JavaScript</a>
 * <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
 
 <b>Screenshots:</b><br>
