@@ -13,7 +13,7 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 * <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
 
 <b>Screenshots:</b><br>
-<video src="https://github.com/katbytes/liri-node-app/blob/master/assets/video/liri-node-app.mp4" width="320" height="200" controls preload></video>
+<video src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/video/liri-node-app.mp4" width="320" height="200" controls preload></video>
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/01.png" alt="screenshot 1" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/02.png" alt="screenshot 2" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/03.png" alt="screenshot 3" height="100" width="100">
