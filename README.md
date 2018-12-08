@@ -1,17 +1,11 @@
 # LIRI Bot - UCSD <img src="https://img.icons8.com/color/48/000000/drum-set.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/metal-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/electronic-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/rock-music.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/documentary.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/music-transcript.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/dj.png"><img src="https://img.icons8.com/color/48/000000/matrix-desktop.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/morpheus.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/trinity.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/neo.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/matrix-hunter.png">
 ## LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="450" width="900">
 LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be a command line node app that takes in parameters and gives you back data. LIRI uses the following commands:
 
 * <a href="https://www.bandsintown.com/">Bands in town</a>
 * <a href="https://www.spotify.com/">spotify-this-song</a>
 * <a href="http://www.omdbapi.com/">movie-this</a>
 * do-what-it-says (aka Get a Demo)
-
-<b>Technologies used:</b>
-* <a href="https://nodejs.org/en/">Node.js</a>
-* <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
-* <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
 
 <b>Screenshots:</b><br>
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/01.png" alt="screen 1" height="100" width="100">
@@ -22,6 +16,13 @@ LIRI is a <b>Language Interpretation and Recognition Interface.</b> LIRI will be
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/06.png" alt="screen 6" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/07.png" alt="screen 7" height="100" width="100">
 <img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/08.png" alt="screen 8" height="100" width="100">
+
+<b>Technologies used:</b>
+* <a href="https://nodejs.org/en/">Node.js</a>
+* <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
+* <a href="https://www.npmjs.com/">npm packages</a>: Spotify, node-spotify-api, moment, inquire, require (vs axios), chalk (& chalk-animation)
+
+<img src="https://raw.githubusercontent.com/katbytes/liri-node-app/master/assets/imgs/liri-node-app.gif" alt="demo" height="450" width="900">
 
 <b>How to Run The LIRI Bot:</b>
 1) Type <b>'node liri.js'</b> Key down to <b>Find events for your favorite bands' concerts</b>, type in a band. This will show the following information about the bands' concert info in your terminal window:
